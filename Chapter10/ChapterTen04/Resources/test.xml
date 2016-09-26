@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmlRoot version="1.0">
+    <!--this is xml comment-->
+    <Cocos2d id="0" type="Cocos2d"/>
+    <Cocos2d id="1" type="Cocos2d"/>
+    <Cocos2d id="2" type="Cocos2d"/>
+    <Cocos2d id="3" type="Cocos2d"/>
+    <Cocos2d id="4" type="Cocos2d"/>
+    <Cocos2d id="5" type="Cocos2d"/>
+    <Cocos2d id="6" type="Cocos2d"/>
+    <Cocos2d id="7" type="Cocos2d"/>
+    <Cocos2d id="8" type="Cocos2d"/>
+    <Cocos2d id="9" type="Cocos2d"/>
+    <Cocos2d id="10" type="Cocos2d"/>
+    <Cocos2d id="11" type="Cocos2d"/>
+    <Cocos2d id="12" type="Cocos2d"/>
+    <Cocos2d id="13" type="Cocos2d"/>
+    <Cocos2d id="14" type="Cocos2d"/>
+    <Cocos2d id="15" type="Cocos2d"/>
+    <Cocos2d id="16" type="Cocos2d"/>
+    <Cocos2d id="17" type="Cocos2d"/>
+    <Cocos2d id="18" type="Cocos2d"/>
+    <Cocos2d id="19" type="Cocos2d"/>
+</xmlRoot>
